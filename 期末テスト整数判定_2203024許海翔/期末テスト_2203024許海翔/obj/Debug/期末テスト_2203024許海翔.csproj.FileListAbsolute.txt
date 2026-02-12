@@ -1,0 +1,10 @@
+C:\Users\pg401\source\repos\期末テスト_2203024許海翔\期末テスト_2203024許海翔\bin\Debug\期末テスト_2203024許海翔.exe.config
+C:\Users\pg401\source\repos\期末テスト_2203024許海翔\期末テスト_2203024許海翔\bin\Debug\期末テスト_2203024許海翔.exe
+C:\Users\pg401\source\repos\期末テスト_2203024許海翔\期末テスト_2203024許海翔\bin\Debug\期末テスト_2203024許海翔.pdb
+C:\Users\pg401\source\repos\期末テスト_2203024許海翔\期末テスト_2203024許海翔\obj\Debug\期末テスト_2203024許海翔.csproj.AssemblyReference.cache
+C:\Users\pg401\source\repos\期末テスト_2203024許海翔\期末テスト_2203024許海翔\obj\Debug\期末テスト_2203024許海翔.Properties.Resources.resources
+C:\Users\pg401\source\repos\期末テスト_2203024許海翔\期末テスト_2203024許海翔\obj\Debug\期末テスト_2203024許海翔.csproj.GenerateResource.cache
+C:\Users\pg401\source\repos\期末テスト_2203024許海翔\期末テスト_2203024許海翔\obj\Debug\期末テスト_2203024許海翔.csproj.CoreCompileInputs.cache
+C:\Users\pg401\source\repos\期末テスト_2203024許海翔\期末テスト_2203024許海翔\obj\Debug\期末テスト_2203024許海翔.exe
+C:\Users\pg401\source\repos\期末テスト_2203024許海翔\期末テスト_2203024許海翔\obj\Debug\期末テスト_2203024許海翔.pdb
+C:\Users\pg401\source\repos\期末テスト_2203024許海翔\期末テスト_2203024許海翔\obj\Debug\期末テスト_2203024許海翔.exe.config

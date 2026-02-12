@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pg401\\source\\repos\\\u671F\u672B\u30C6\u30B9\u30C8\u901A\u4FE1\u30A2\u30D7\u30EA22503024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF63BDA9-EBEC-4529-A511-4D8B8AE5557E}|\u671F\u672B\u30C6\u30B9\u30C8\u901A\u4FE1\u30A2\u30D7\u30EA22503024\\\u671F\u672B\u30C6\u30B9\u30C8\u901A\u4FE1\u30A2\u30D7\u30EA22503024.csproj|c:\\users\\pg401\\source\\repos\\\u671F\u672B\u30C6\u30B9\u30C8\u901A\u4FE1\u30A2\u30D7\u30EA22503024\\\u671F\u672B\u30C6\u30B9\u30C8\u901A\u4FE1\u30A2\u30D7\u30EA22503024\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FF63BDA9-EBEC-4529-A511-4D8B8AE5557E}|\u671F\u672B\u30C6\u30B9\u30C8\u901A\u4FE1\u30A2\u30D7\u30EA22503024\\\u671F\u672B\u30C6\u30B9\u30C8\u901A\u4FE1\u30A2\u30D7\u30EA22503024.csproj|solutionrelative:\u671F\u672B\u30C6\u30B9\u30C8\u901A\u4FE1\u30A2\u30D7\u30EA22503024\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF63BDA9-EBEC-4529-A511-4D8B8AE5557E}|\u671F\u672B\u30C6\u30B9\u30C8\u901A\u4FE1\u30A2\u30D7\u30EA22503024\\\u671F\u672B\u30C6\u30B9\u30C8\u901A\u4FE1\u30A2\u30D7\u30EA22503024.csproj|C:\\Users\\pg401\\source\\repos\\\u671F\u672B\u30C6\u30B9\u30C8\u901A\u4FE1\u30A2\u30D7\u30EA22503024\\\u671F\u672B\u30C6\u30B9\u30C8\u901A\u4FE1\u30A2\u30D7\u30EA22503024\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF63BDA9-EBEC-4529-A511-4D8B8AE5557E}|\u671F\u672B\u30C6\u30B9\u30C8\u901A\u4FE1\u30A2\u30D7\u30EA22503024\\\u671F\u672B\u30C6\u30B9\u30C8\u901A\u4FE1\u30A2\u30D7\u30EA22503024.csproj|solutionrelative:\u671F\u672B\u30C6\u30B9\u30C8\u901A\u4FE1\u30A2\u30D7\u30EA22503024\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF63BDA9-EBEC-4529-A511-4D8B8AE5557E}|\u671F\u672B\u30C6\u30B9\u30C8\u901A\u4FE1\u30A2\u30D7\u30EA22503024\\\u671F\u672B\u30C6\u30B9\u30C8\u901A\u4FE1\u30A2\u30D7\u30EA22503024.csproj|C:\\Users\\pg401\\source\\repos\\\u671F\u672B\u30C6\u30B9\u30C8\u901A\u4FE1\u30A2\u30D7\u30EA22503024\\\u671F\u672B\u30C6\u30B9\u30C8\u901A\u4FE1\u30A2\u30D7\u30EA22503024\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF63BDA9-EBEC-4529-A511-4D8B8AE5557E}|\u671F\u672B\u30C6\u30B9\u30C8\u901A\u4FE1\u30A2\u30D7\u30EA22503024\\\u671F\u672B\u30C6\u30B9\u30C8\u901A\u4FE1\u30A2\u30D7\u30EA22503024.csproj|solutionrelative:\u671F\u672B\u30C6\u30B9\u30C8\u901A\u4FE1\u30A2\u30D7\u30EA22503024\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\pg401\\source\\repos\\\u671F\u672B\u30C6\u30B9\u30C8\u901A\u4FE1\u30A2\u30D7\u30EA22503024\\\u671F\u672B\u30C6\u30B9\u30C8\u901A\u4FE1\u30A2\u30D7\u30EA22503024\\Form1.cs",
+              "RelativeDocumentMoniker": "\u671F\u672B\u30C6\u30B9\u30C8\u901A\u4FE1\u30A2\u30D7\u30EA22503024\\Form1.cs",
+              "ToolTip": "C:\\Users\\pg401\\source\\repos\\\u671F\u672B\u30C6\u30B9\u30C8\u901A\u4FE1\u30A2\u30D7\u30EA22503024\\\u671F\u672B\u30C6\u30B9\u30C8\u901A\u4FE1\u30A2\u30D7\u30EA22503024\\Form1.cs",
+              "RelativeToolTip": "\u671F\u672B\u30C6\u30B9\u30C8\u901A\u4FE1\u30A2\u30D7\u30EA22503024\\Form1.cs",
+              "ViewState": "AgIAAAABAAAAAAAAAAAAAGAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T05:13:20.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\pg401\\source\\repos\\\u671F\u672B\u30C6\u30B9\u30C8\u901A\u4FE1\u30A2\u30D7\u30EA22503024\\\u671F\u672B\u30C6\u30B9\u30C8\u901A\u4FE1\u30A2\u30D7\u30EA22503024\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "\u671F\u672B\u30C6\u30B9\u30C8\u901A\u4FE1\u30A2\u30D7\u30EA22503024\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\pg401\\source\\repos\\\u671F\u672B\u30C6\u30B9\u30C8\u901A\u4FE1\u30A2\u30D7\u30EA22503024\\\u671F\u672B\u30C6\u30B9\u30C8\u901A\u4FE1\u30A2\u30D7\u30EA22503024\\Form1.Designer.cs",
+              "RelativeToolTip": "\u671F\u672B\u30C6\u30B9\u30C8\u901A\u4FE1\u30A2\u30D7\u30EA22503024\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T05:12:52.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "DocumentMoniker": "C:\\Users\\pg401\\source\\repos\\\u671F\u672B\u30C6\u30B9\u30C8\u901A\u4FE1\u30A2\u30D7\u30EA22503024\\\u671F\u672B\u30C6\u30B9\u30C8\u901A\u4FE1\u30A2\u30D7\u30EA22503024\\Form1.cs",
+              "RelativeDocumentMoniker": "\u671F\u672B\u30C6\u30B9\u30C8\u901A\u4FE1\u30A2\u30D7\u30EA22503024\\Form1.cs",
+              "ToolTip": "C:\\Users\\pg401\\source\\repos\\\u671F\u672B\u30C6\u30B9\u30C8\u901A\u4FE1\u30A2\u30D7\u30EA22503024\\\u671F\u672B\u30C6\u30B9\u30C8\u901A\u4FE1\u30A2\u30D7\u30EA22503024\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "RelativeToolTip": "\u671F\u672B\u30C6\u30B9\u30C8\u901A\u4FE1\u30A2\u30D7\u30EA22503024\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T04:59:13.296Z",
+              "EditorCaption": " [\u30C7\u30B6\u30A4\u30F3]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
